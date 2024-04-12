@@ -489,6 +489,12 @@ section {
 }
 
 .job-paragraph {
+    font-family: "Poppins", sans-serif;
+    list-style-type: none;
+
+}
+
+.job-paragraph-ol {
     margin-left: 20px;
     font-family: "Poppins", sans-serif;
 
@@ -553,6 +559,10 @@ h1 {
     }
 
     .job-paragraph {
+        font-size: 12px;
+    }
+
+    .job-paragraph-ol {
         font-size: 12px;
     }
 
